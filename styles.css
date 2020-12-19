@@ -1,0 +1,16 @@
+body{
+  padding: 15% 40%;
+  font-size: 1rem;
+}
+button{
+  border-radius: 12px;
+  background-color: black;
+  color: white;
+  padding: 5%;
+  border: none;
+  margin: 2%;
+}
+button:hover{
+  background-color: white;
+  color: black;
+}
